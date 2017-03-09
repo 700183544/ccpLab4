@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\700183544\desktop\cpplab4\cpplab4\main.cpp(54): warning C4018: '<': signed/unsigned mismatch
+  cppLab4.vcxproj -> C:\Users\700183544\Desktop\cppLab4\Debug\cppLab4.exe
+  cppLab4.vcxproj -> C:\Users\700183544\Desktop\cppLab4\Debug\cppLab4.pdb (Partial PDB)
